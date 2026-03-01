@@ -13,9 +13,9 @@
   ],
   "links": {
     "pdf": "https://arxiv.org/abs/2506.15682",
-    "webpage": "https://aniaggarwal.github.io/ecad/",
+    "webpage": "https://aniaggarwal.com/ecad/",
     "code": "https://github.com/AniAggarwal/ecad"
   },
-  "thumbnail": "https://aniaggarwal.github.io/ecad/static/images/teaser.png",
+  "thumbnail": "images/thumbnails/evolutionary-caching.webp",
   "date": "2026-01"
 }

@@ -23,6 +23,6 @@
     "pdf": "https://arxiv.org/abs/2601.15287",
     "code": "https://github.com/gautomdas/mmq"
   },
-  "thumbnail": null,
+  "thumbnail": "images/thumbnails/quantization-vlm.png",
   "date": "2026-01"
 }

@@ -12,6 +12,6 @@
     "pdf": "https://arxiv.org/abs/2412.04929",
     "webpage": "https://www.cs.umd.edu/~gauravsh/cvp/supp/website.html"
   },
-  "thumbnail": null,
+  "thumbnail": "images/thumbnails/video-prediction-continuous.png",
   "date": "2024-02"
 }

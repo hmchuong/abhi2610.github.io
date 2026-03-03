@@ -3,6 +3,7 @@
   "title": "Video Dynamics Prior: An Internal Learning Approach for Robust Video Enhancements",
   "authors": [
     "gaurav-shrivastava",
+    "ser-nam-lim",
     "abhinav-shrivastava"
   ],
   "venue": "NeurIPS",
@@ -12,6 +13,6 @@
     "pdf": "https://arxiv.org/abs/2312.07835",
     "webpage": "http://www.cs.umd.edu/~gauravsh/vdp.html"
   },
-  "thumbnail": null,
+  "thumbnail": "images/thumbnails/video-dynamics-prior.png",
   "date": "2023-09"
 }

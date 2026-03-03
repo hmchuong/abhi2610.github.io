@@ -2,12 +2,8 @@
   "id": "open-world-learning",
   "title": "Challenges, Evaluation and Opportunities for Open-World Learning",
   "authors": [
-    {
-      "name": "Mayank Kejriwal"
-    },
-    {
-      "name": "Eric Kildebeck"
-    },
+    "mayank-kejriwal",
+    "eric-kildebeck",
     {
       "name": "Robert Steininger"
     },

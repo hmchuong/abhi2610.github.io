@@ -1,0 +1,19 @@
+{
+  "id": "maps",
+  "title": "MAPS: Memory Augmented Panoptic Segmentation",
+  "authors": [
+    "vatsal-agarwal",
+    "saksham-suri",
+    "max-ehrlich",
+    "abhinav-shrivastava"
+  ],
+  "venue": "MemVis Workshop, ICCV",
+  "year": 2025,
+  "tags": ["oral"],
+  "links": {
+    "pdf": ""
+  },
+  "thumbnail": "https://vatsalag99.github.io/images/maps_teaser.png",
+  "date": "2025-07",
+  "sortOrder": 1000
+}

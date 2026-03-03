@@ -708,5 +708,17 @@
     "url": "https://ischool.umd.edu/directory/hernisa-kacorri/",
     "role": "collaborator",
     "status": "current"
+  },
+  "mayank-kejriwal": {
+    "name": "Mayank Kejriwal",
+    "url": "https://usc-isi-i2.github.io/kejriwal/",
+    "role": "collaborator",
+    "status": "current"
+  },
+  "eric-kildebeck": {
+    "name": "Eric Kildebeck",
+    "url": "https://scholar.google.com/citations?user=WV95hn8AAAAJ&hl=en",
+    "role": "collaborator",
+    "status": "current"
   }
 }

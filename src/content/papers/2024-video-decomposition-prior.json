@@ -13,6 +13,6 @@
     "pdf": "https://arxiv.org/abs/2412.04930",
     "webpage": "https://www.cs.umd.edu/~gauravsh/video_decomposition/index.html"
   },
-  "thumbnail": null,
+  "thumbnail": "images/thumbnails/video-decomposition-prior.png",
   "date": "2024-01"
 }

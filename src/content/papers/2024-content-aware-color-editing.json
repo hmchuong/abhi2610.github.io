@@ -4,15 +4,21 @@
   "authors": [
     "yixuan-ren",
     {
-      "name": "Jing Shi"
+      "name": "Jing Shi",
+      "url": "https://jshi31.github.io/jingshi/"
     },
     {
-      "name": "Zhifei Zhang"
+      "name": "Zhifei Zhang",
+      "url": "https://zzutk.github.io/"
     },
     {
-      "name": "Yifei Fan"
+      "name": "Yifei Fan",
+      "url": "https://www.linkedin.com/in/yifeifan-profile/",
     },
-    "zhe-lin",
+    {
+      "name": "Zhe Lin",
+      "url": "https://sites.google.com/site/zhelin625/home",
+    },
     "bo-he",
     "abhinav-shrivastava"
   ],
